@@ -1,0 +1,187 @@
+# Blender MTL File: 'None'
+# Material Count: 17
+
+newmtl Brick__GreyBricks_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump GreyBricks2.jpg
+map_Kd GreyBricks2.jpg
+
+newmtl DoorType1_2__DoorType1_2_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump DoorType1_2.jpg
+map_Kd DoorType1_2.jpg
+
+newmtl GreyBrick2__GreyBricks2_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump GreyBricks2.jpg
+map_Kd GreyBricks2.jpg
+
+newmtl GreyStone2__GreyStone2_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Stone.jpg
+map_Kd Stone.jpg
+
+newmtl LogEdgeWeathered__TreeLogEdgeWeathered_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump TreeLogEdgeWeathered.jpg
+map_Kd TreeLogEdgeWeathered.jpg
+
+newmtl LogEdgeWeathered__Wood_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump TreeLogEdgeWeathered.jpg
+map_Kd TreeLogEdgeWeathered.jpg
+
+newmtl LogEdgeWeathered__Wood_jpg_002
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump TreeLogEdgeWeathered.jpg
+map_Kd TreeLogEdgeWeathered.jpg
+
+newmtl Plaster__PlasterLarge_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump PlasterLarge.jpg
+map_Kd PlasterLarge.jpg
+
+newmtl RoofTiles__RoofTiles_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump RoofTiles.jpg
+map_Kd RoofTiles.jpg
+
+newmtl RustedMetal__Rusted_Metal_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Rusted Metal.jpg
+map_Kd Rusted Metal.jpg
+
+newmtl Stone__Stone_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Stone.jpg
+map_Kd Stone.jpg
+
+newmtl WindowBlue1__WindowBlue1
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump WindowBlue1.jpg
+map_Kd WindowBlue1.jpg
+
+newmtl WindowBlue2__WindowsBlue2_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump WindowsBlue2.jpg
+map_Kd WindowsBlue2.jpg
+
+newmtl Wood_001
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Wood.jpg
+map_Kd Wood.jpg
+
+newmtl Wood_001__Wood_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Wood.jpg
+map_Kd Wood.jpg
+
+newmtl Wood__Wood_jpg
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump Wood.jpg
+map_Kd Wood.jpg
+
+newmtl b0b0b0
+Ns 96.078431
+Ka 0.7 0.7 0.7
+Kd 0.2 0.2 0.2
+Ks 0.2 0.2 0.2
+Ni 1.000000
+d 1.000000
+illum 2
