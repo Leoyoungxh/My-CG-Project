@@ -1,49 +1,49 @@
 [
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\InitShader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\InitShader.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/InitShader.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\InitShader.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\InitShader.cpp",
+  "file": "F:/CG/code/code/InitShader.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\Mesh_Painter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\Mesh_Painter.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/Mesh_Painter.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\Mesh_Painter.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\Mesh_Painter.cpp",
+  "file": "F:/CG/code/code/Mesh_Painter.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\callback.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\callback.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/callback.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\callback.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\callback.cpp",
+  "file": "F:/CG/code/code/callback.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\camera.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\camera.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/camera.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\camera.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\camera.cpp",
+  "file": "F:/CG/code/code/camera.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\main.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/main.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\main.cpp",
+  "file": "F:/CG/code/code/main.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\material.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\material.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/material.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\material.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\material.cpp",
+  "file": "F:/CG/code/code/material.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\mesh.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/mesh.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\mesh.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\mesh.cpp",
+  "file": "F:/CG/code/code/mesh.cpp"
 },
 
 {
-  "directory": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build",
-  "command": "D:\\Microsoft\\VisualStudio\\application\\VC\\Tools\\MSVC\\14.22.27905\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -ID:\\vcpkg\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1   /FoCMakeFiles\\main.dir\\robot.cpp.obj /FdTARGET_COMPILE_PDB /FS -c \"F:\\Experiment\\OpenGL\\final term\\期末大作业\\期末大作业\\大作业代码\\robot.cpp\"",
-  "file": "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/robot.cpp"
+  "directory": "F:/CG/code/code/build",
+  "command": "F:\\VisualStudio\\VC\\Tools\\MSVC\\14.24.28314\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP  -I..\\include -IF:\\vcpkg\\installed\\x64-windows\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\main.dir\\robot.cpp.obj /FdTARGET_COMPILE_PDB /FS -c F:\\CG\\code\\code\\robot.cpp",
+  "file": "F:/CG/code/code/robot.cpp"
 }
 ]

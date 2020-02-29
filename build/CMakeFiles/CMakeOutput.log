@@ -1,16 +1,16 @@
-The system is: Windows - 10.0.17763 - AMD64
+The system is: Windows - 10.0.17134 - AMD64
 Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
-Compiler: D:/Microsoft/VisualStudio/application/VC/Tools/MSVC/14.22.27905/bin/Hostx64/x64/cl.exe 
+Compiler: F:/VisualStudio/VC/Tools/MSVC/14.24.28314/bin/Hostx64/x64/cl.exe 
 Build flags: 
 Id flags:  
 
 The output was:
 0
-用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.22.27905 版
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.24.28316 版
 版权所有(C) Microsoft Corporation。保留所有权利。
 
 CMakeCCompilerId.c
-Microsoft (R) Incremental Linker Version 14.22.27905.0
+Microsoft (R) Incremental Linker Version 14.24.28316.0
 Copyright (C) Microsoft Corporation.  All rights reserved.
 
 /out:CMakeCCompilerId.exe 
@@ -21,20 +21,20 @@ Compilation of the C compiler identification source "CMakeCCompilerId.c" produce
 
 Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
 
-The C compiler identification is MSVC, found in "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe"
+The C compiler identification is MSVC, found in "F:/CG/code/code/build/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.exe"
 
 Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
-Compiler: D:/Microsoft/VisualStudio/application/VC/Tools/MSVC/14.22.27905/bin/Hostx64/x64/cl.exe 
+Compiler: F:/VisualStudio/VC/Tools/MSVC/14.24.28314/bin/Hostx64/x64/cl.exe 
 Build flags: 
 Id flags:  
 
 The output was:
 0
-用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.22.27905 版
+用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.24.28316 版
 版权所有(C) Microsoft Corporation。保留所有权利。
 
 CMakeCXXCompilerId.cpp
-Microsoft (R) Incremental Linker Version 14.22.27905.0
+Microsoft (R) Incremental Linker Version 14.24.28316.0
 Copyright (C) Microsoft Corporation.  All rights reserved.
 
 /out:CMakeCXXCompilerId.exe 
@@ -45,37 +45,37 @@ Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" p
 
 Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.obj"
 
-The CXX compiler identification is MSVC, found in "F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
+The CXX compiler identification is MSVC, found in "F:/CG/code/code/build/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.exe"
 
 Determining if the C compiler works passed with the following output:
-Change Dir: F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build/CMakeFiles/CMakeTmp
+Change Dir: F:/CG/code/code/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Anaconda/Library/bin/ninja.exe cmTC_8124c && [1/2] Building C object CMakeFiles\cmTC_8124c.dir\testCCompiler.c.obj
-[2/2] Linking C executable cmTC_8124c.exe
+Run Build Command(s):F:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_a9d51 && [1/2] Building C object CMakeFiles\cmTC_a9d51.dir\testCCompiler.c.obj
+[2/2] Linking C executable cmTC_a9d51.exe
 
 
 
 Detecting C compiler ABI info compiled with the following output:
-Change Dir: F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build/CMakeFiles/CMakeTmp
+Change Dir: F:/CG/code/code/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Anaconda/Library/bin/ninja.exe cmTC_ea8ba && [1/2] Building C object CMakeFiles\cmTC_ea8ba.dir\CMakeCCompilerABI.c.obj
-[2/2] Linking C executable cmTC_ea8ba.exe
+Run Build Command(s):F:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_e688a && [1/2] Building C object CMakeFiles\cmTC_e688a.dir\CMakeCCompilerABI.c.obj
+[2/2] Linking C executable cmTC_e688a.exe
 
 
 
 Determining if the CXX compiler works passed with the following output:
-Change Dir: F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build/CMakeFiles/CMakeTmp
+Change Dir: F:/CG/code/code/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Anaconda/Library/bin/ninja.exe cmTC_01aac && [1/2] Building CXX object CMakeFiles\cmTC_01aac.dir\testCXXCompiler.cxx.obj
-[2/2] Linking CXX executable cmTC_01aac.exe
+Run Build Command(s):F:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_cb38d && [1/2] Building CXX object CMakeFiles\cmTC_cb38d.dir\testCXXCompiler.cxx.obj
+[2/2] Linking CXX executable cmTC_cb38d.exe
 
 
 
 Detecting CXX compiler ABI info compiled with the following output:
-Change Dir: F:/Experiment/OpenGL/final term/期末大作业/期末大作业/大作业代码/build/CMakeFiles/CMakeTmp
+Change Dir: F:/CG/code/code/build/CMakeFiles/CMakeTmp
 
-Run Build Command(s):D:/Anaconda/Library/bin/ninja.exe cmTC_235d2 && [1/2] Building CXX object CMakeFiles\cmTC_235d2.dir\CMakeCXXCompilerABI.cpp.obj
-[2/2] Linking CXX executable cmTC_235d2.exe
+Run Build Command(s):F:/VisualStudio/Common7/IDE/CommonExtensions/Microsoft/CMake/Ninja/ninja.exe cmTC_73d58 && [1/2] Building CXX object CMakeFiles\cmTC_73d58.dir\CMakeCXXCompilerABI.cpp.obj
+[2/2] Linking CXX executable cmTC_73d58.exe
 
 
 

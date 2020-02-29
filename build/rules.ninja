@@ -7,7 +7,7 @@
 
 # =============================================================================
 # Project: main
-# Configuration: Debug
+# Configuration: Release
 # =============================================================================
 # =============================================================================
 
@@ -30,7 +30,7 @@ rule CUSTOM_COMMAND
 
 rule CXX_COMPILER__main
   deps = msvc
-  command = D:\Microsoft\VisualStudio\application\VC\Tools\MSVC\14.22.27905\bin\Hostx64\x64\cl.exe  /nologo /TP $DEFINES $INCLUDES $FLAGS /showIncludes /Fo$out /Fd$TARGET_COMPILE_PDB /FS -c $in
+  command = F:\VisualStudio\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\cl.exe  /nologo /TP $DEFINES $INCLUDES $FLAGS /showIncludes /Fo$out /Fd$TARGET_COMPILE_PDB /FS -c $in
   description = Building CXX object $out
 
 
@@ -38,7 +38,7 @@ rule CXX_COMPILER__main
 # Rule for linking CXX executable.
 
 rule CXX_EXECUTABLE_LINKER__main
-  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=$OBJECT_DIR --rc=D:\WINDOW~1\10\bin\100183~1.0\x64\rc.exe --mt=D:\WINDOW~1\10\bin\100183~1.0\x64\mt.exe --manifests $MANIFESTS -- D:\Microsoft\VisualStudio\application\VC\Tools\MSVC\14.22.27905\bin\Hostx64\x64\link.exe /nologo $in  /out:$TARGET_FILE /implib:$TARGET_IMPLIB /pdb:$TARGET_PDB /version:0.0  $LINK_FLAGS $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
+  command = cmd.exe /C "$PRE_LINK && "C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=$OBJECT_DIR --rc=F:\WINDOW~1\10\bin\100183~1.0\x64\rc.exe --mt=F:\WINDOW~1\10\bin\100183~1.0\x64\mt.exe --manifests $MANIFESTS -- F:\VisualStudio\VC\Tools\MSVC\14.24.28314\bin\Hostx64\x64\link.exe /nologo $in  /out:$TARGET_FILE /implib:$TARGET_IMPLIB /pdb:$TARGET_PDB /version:0.0  $LINK_FLAGS $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking CXX executable $TARGET_FILE
   restat = $RESTAT
 
@@ -47,7 +47,7 @@ rule CXX_EXECUTABLE_LINKER__main
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = "C:\Program Files\CMake\bin\cmake.exe" -S"F:\Experiment\OpenGL\final term\期末大作业\期末大作业\大作业代码" -B"F:\Experiment\OpenGL\final term\期末大作业\期末大作业\大作业代码\build"
+  command = "C:\Program Files\CMake\bin\cmake.exe" -SF:\CG\code\code -BF:\CG\code\code\build
   description = Re-running CMake...
   generator = 1
 
@@ -56,7 +56,7 @@ rule RERUN_CMAKE
 # Rule for cleaning all built files.
 
 rule CLEAN
-  command = D:\Anaconda\Library\bin\ninja.exe -t clean
+  command = F:\VisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja\ninja.exe -t clean
   description = Cleaning all built files...
 
 
@@ -64,6 +64,6 @@ rule CLEAN
 # Rule for printing all primary targets available.
 
 rule HELP
-  command = D:\Anaconda\Library\bin\ninja.exe -t targets
+  command = F:\VisualStudio\Common7\IDE\CommonExtensions\Microsoft\CMake\Ninja\ninja.exe -t targets
   description = All primary targets available:
 
