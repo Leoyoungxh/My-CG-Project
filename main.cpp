@@ -646,7 +646,7 @@ int main( int argc, char **argv )
 	glutInit(&argc, argv);
 	glutInitDisplayMode(GLUT_RGBA | GLUT_DOUBLE | GLUT_DEPTH);
 	glutInitWindowSize(window.width, window.height);
-	glutCreateWindow("2017153042_杨翔闳_大作业");
+	glutCreateWindow("大作业");
 
 	#ifdef WIN32
 		glutInitContextVersion(3, 2);
